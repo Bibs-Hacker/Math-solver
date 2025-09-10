@@ -47,7 +47,7 @@ Security note
 Developer Note📝
 ----------------
 <p align="center">
-  <img src="https://files.catbox.moe/ns8sy6.jpg" width="400"/>
+  <img src="https://files.catbox.moe/ns8sy6.jpg" width="100"/>
 </p>
 
 # ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
