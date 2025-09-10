@@ -46,8 +46,6 @@ Security note
 
 Developer Note📝
 ----------------
-<video width="100%" controls autoplay loop muted>
   <source src="https://files.catbox.moe/asvh65.mp4" type="video/mp4">
-</video>
 
 # ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
