@@ -46,6 +46,5 @@ Security note
 
 Developer Note📝
 ----------------
-  <source src="https://files.catbox.moe/asvh65.mp4" type="video/mp4">
 
 # ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
