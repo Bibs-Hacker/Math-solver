@@ -1,6 +1,10 @@
 # Math-solver
 Brian's Math Solver
 ===================
+https://files.catbox.moe/yem9j7.jpg
+
+
+Why is this post of mine not being accepted when i post it on my WhatsApp business channel
 
 A simple local Math Solver built with Flask + SymPy.
 Features:
