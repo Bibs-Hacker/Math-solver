@@ -1,6 +1,10 @@
 # Math-solver
 Brian's Math Solver
 ===================
+<p align="center">
+  <img src="https://files.catbox.moe/b2xl1t.jpg" width="500"/>
+</p>
+
 
 Why is this post of mine not being accepted when i post it on my WhatsApp business channel
 
