@@ -46,8 +46,8 @@ Security note
 
 Developer Note📝
 ----------------
-<p align="center">
-  <img src="https://files.catbox.moe/ns8sy6.jpg" width="300" height="400"/>
-</p>
+<video width="100%" controls autoplay loop muted>
+  <source src="https://files.catbox.moe/asvh65.mp4" type="video/mp4">
+</video>
 
 # ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
