@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Brian's Math Solver</title>
+  <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <div class="logo-block">
+        <img src="https://files.catbox.moe/lmo594.jpg" alt="Profile" class="logo"/>
+        <div>
+          <h1>Brian's Math Solver</h1>
+          <p class="subtitle">Symbolic & Numeric math solver • Algebra • Calculus • Simplify</p>
+        </div>
+      </div>
+    </header>
+
+    <section class="solver">
+      <textarea id="query" placeholder="Type a math problem (examples: solve x^2-4=0 ; integrate x^2 ; differentiate sin(x) wrt x ; simplify (x^2-1)/(x-1) )"></textarea>
+      <div class="controls">
+        <button id="solveBtn" class="primary">Solve</button>
+        <button id="clearBtn">Clear</button>
+        <label class="small">Example: <span class="example">integrate x^3 , differentiate sin(x) , solve x^2-1=0</span></label>
+      </div>
+
+      <div id="result" class="result hidden">
+        <h3>Result</h3>
+        <pre id="resultText"></pre>
+      </div>
+    </section>
+
+    <footer>
+      <small>@MERAB &amp; BRIAN SYSTEM 2025 • Built with SymPy & Flask</small>
+    </footer>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
