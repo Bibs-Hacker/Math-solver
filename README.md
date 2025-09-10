@@ -43,3 +43,7 @@ Security note
 -------------
 - This project is for local testing and learning. Do not expose the Flask dev server directly to the public without proper security (use gunicorn + reverse proxy).
 - Do not execute untrusted inputs on remote servers.
+
+Developer Note📝
+----------------
+# ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
