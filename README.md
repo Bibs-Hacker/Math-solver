@@ -46,4 +46,8 @@ Security note
 
 Developer Note📝
 ----------------
+<p align="center">
+  <img src="https://files.catbox.moe/asvh65.mp4" width="400"/>
+</p>
+
 # ❗❗AM A GOOD PERSON, TILL YOU SHOW ME A REASON NOT TO BE💀
